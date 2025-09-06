@@ -5,7 +5,7 @@ Soal no 2
 
 jawab : 
 
-Algorithm CalculateRectangleArea
+Start Algorithm
 
     Variables:
         length : integer
