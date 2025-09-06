@@ -7,7 +7,8 @@ jawab :
 
   Start Algorithm
   
-    Input: length = 5, width = 3
+    Input:
+        length = 5, width = 3
     Process:
         range ← length × width
     Output:
