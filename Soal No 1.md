@@ -11,6 +11,6 @@ jawab :
     Process:
         range ← length × width
     Output:
-        Display "The area of the rectangle is", area
+        Display "The area of the rectangle is ", area
         
    End Algorithm
