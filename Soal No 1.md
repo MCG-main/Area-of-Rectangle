@@ -7,10 +7,10 @@ jawab :
 
   Start Algorithm
   
-    Input: panjang = 5, lebar = 3
+    Input: length = 5, width = 3
     Process:
-        luas ← panjang × lebar
+        range ← length × width
     Output:
-        Tampilkan "Luas persegi panjang adalah", luas
+        Display "The area of the rectangle is", area
         
    End Algorithm
